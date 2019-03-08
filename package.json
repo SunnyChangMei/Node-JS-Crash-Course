@@ -1,0 +1,23 @@
+{
+  "name": "node-js-crash-course",
+  "version": "1.0.0",
+  "description": "``` $ npm init $ npm install express $ npm install -g nodemon ```",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunnyChangMei/Node-JS-Crash-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunnyChangMei/Node-JS-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/SunnyChangMei/Node-JS-Crash-Course#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
